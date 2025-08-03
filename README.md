@@ -2,7 +2,6 @@
 
 🚀 **Machine Learning | Deep Learning | AI | Developer**   
 🎓 **CSE Graduate 2025 | AI/ML Enthusiast**  
-💻 **Connect with me via LinkedIn : linkedin.com/in/ranita-dey-1417731b3**
 
 ### 🔹 About Me
 - 🔍 **Intern at a Research Organization**  
