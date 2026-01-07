@@ -4,9 +4,10 @@
 🎓 **CSE Graduate 2025 | AI/ML Enthusiast**  
 
 ### 🔹 About Me
-- 🔍 **Intern at a Research Organization**  
+- 🛠  **Working as a Python Developer**
+- 🔍 **Ex-Intern at a Research Organization**  
 - 💡 **Passionate about AI, ML and new growing technologies**  
-- 📚 **Published 2 Research Papers "Wicked Moth Ousting Technology" & "Suddh Salil"**
+- 📚 **Published 3 Research Papers "Wicked Moth Ousting Technology", "Suddh Salil", "Aqua Purity**
 - 🛡️ **Have a patent on "SYSTEM AND METHOD FOR EFFICIENT FARMING USING MACHINE LEARNINGBASED WICKED MOTH OUSTING TECHNOLOGY"**
 - 🛠 **Worked on steganalysis based projects**
 - 🔬 **Exploring GenAI and Agentic AI**
